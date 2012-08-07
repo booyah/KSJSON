@@ -26,6 +26,8 @@
 
 #import "KSJSON.h"
 
+
+#import <CoreGraphics/CGBase.h>
 #import <objc/runtime.h>
 
 
